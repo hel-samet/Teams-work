@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="img/icon.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,25 +53,23 @@
                     <span class="fa fa-bars"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <div class="navbar-nav ms-auto py-0">
-                        <a href="index.php" class="nav-item nav-link">Home</a>
-                        <a href="about.php" class="nav-item nav-link">About</a>
-                        <a href="service.php" class="nav-item nav-link">Service</a>
-                        <a href="team.php" class="nav-item nav-link">Our Team</a>
-                        <a href="contact.php" class="nav-item nav-link active">Contact</a>
+                    <div style="font-family: 'battambang', cursive;  font-weight: 300;" class="navbar-nav ms-auto py-0">
+                        <a href="index.php" class="nav-item nav-link">ទំព័រដើម</a>
+                        <a href="about.php" class="nav-item nav-link">អំពីយើងខ្ញុំ</a>
+                        <a href="team.php" class="nav-item nav-link">ក្រុមរបស់យើង</a>
                     </div>
-                    <a href="quote.php" class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5">Free Quote</a>
+                    <a style="font-family: 'battambang', cursive;  font-weight: 300;" href="contact.php" class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5 ">ទំនាកទំនង</a>
                 </div>
             </nav>
 
-            <div class="container-xxl bg-primary page-header">
+            <div class="container-xxl bg-secondary page-header">
                 <div class="container text-center">
-                    <h1 class="text-white animated zoomIn mb-3">Contact Us</h1>
+                    <h1 style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white animated zoomIn mb-3">ទំនាកទំនង</h1>
                     <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb justify-content-center">
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                            <li class="breadcrumb-item text-white active" aria-current="page">Contact</li>
+                        <ol style="font-family: 'battambang', cursive;  font-weight: 300;" class="breadcrumb justify-content-center">
+                            <li class="breadcrumb-item"><a class="text-white" href="#">ទំព័រដើម</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="#">ទំព័រ</a></li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">ទំនាកទំនង</li>
                         </ol>
                     </nav>
                 </div>
@@ -80,16 +78,17 @@
         <!-- Navbar & Hero End -->
 
 
-        <!-- Contact Start -->
-        <div class="container-xxl py-6">
+        <!-- Quote Start -->
+          <!-- Contact Start -->
+          <div class="container-xxl py-6">
             <div class="container">
                 <div class="mx-auto text-center wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                    <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">Contact Us</div>
-                    <h2 class="mb-5">If You Have Any Query, Please Feel Free Contact Us</h2>
+                    <div style="font-family: 'battambang', cursive;  font-weight: 300;" class="d-inline-block border rounded-pill text-primary px-4 mb-3">ទំនាកទំនង</div>
+                    <h2 style="font-family: 'battambang', cursive;  font-weight: 300;  line-height: 45px;" class="mb-5">ប្រសិនបើអ្នកមានសំណួរណាមួយ សូមទាក់ទងមកយើងខ្ញុំដោយសេរី</h2>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.3s">
-                        <p class="text-center mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                        <p style="font-family: 'battambang', cursive;  font-weight: 300;  line-height: 28px;" class="text-center mb-4">ហេ! សូមផ្ញើអ៊ីមែលមកខ្ញុំដោយសេរី។ ខ្ញុំខំអស់ពីសមត្ថភាពដើម្បីឆ្លើយតបទាន់ពេលវេលា ប៉ុន្តែអ៊ីមែលដែលមិនមែនជាបន្ទាន់អាច ចំណាយពេលពីរបីថ្ងៃបន្ថែម។ អ្នកនឹងឃើញថាខ្ញុំពិតជាឆ្លើយតបនៅលើ Email ដូច្នេះប្រសិនបើអ្នកមានកម្មវិធីទាក់ទងនឹងការសរសេរកម្មវិធី សំណួរ នោះជាកន្លែងដ៏ល្អមួយដើម្បីចាប់ផ្តើម។.</p>
                         <form>
                             <div class="row g-3">
                                 <div class="col-md-6">
@@ -126,14 +125,11 @@
             </div>
         </div>
         <!-- Contact End -->
+        <!-- Quote End -->
         
-
-        <?php include "include/footer.php" ?>
-        <!-- Footer End -->
-
-
+       <?php include "include/footer.php" ?>
         <!-- Back to Top -->
-        <a href="navbar" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+        <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
     </div>
 
     <!-- JavaScript Libraries -->

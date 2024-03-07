@@ -10,14 +10,12 @@
                     <span class="fa fa-bars"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <div class="navbar-nav ms-auto py-0">
-                        <a href="index.php" class="nav-item nav-link active">Home</a>
-                        <a href="about.php" class="nav-item nav-link">About</a>
-                        <a href="service.php" class="nav-item nav-link">Service</a>
-                        <a href="team.php" class="nav-item nav-link">Our Team</a>
-                        <a href="contact.php" class="nav-item nav-link">Contact</a>
+                    <div style="font-family: 'battambang', cursive;  font-weight: 300;" class="navbar-nav ms-auto py-0">
+                        <a href="index.php" class="nav-item nav-link active">ទំព័រដើម</a>
+                        <a href="about.php" class="nav-item nav-link">អំពីយើងខ្ញុំ</a>
+                        <a href="team.php" class="nav-item nav-link">ក្រុមរបស់យើង</a>
                     </div>
-                    <a href="quote.php" class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5">Free Quote</a>
+                    <a style="font-family: 'battambang', cursive;  font-weight: 300;" href="contact.php" class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5">ទំនាកទំនង</a>
                 </div>
             </nav>
 

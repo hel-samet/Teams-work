@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="img/icon.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,25 +53,24 @@
                     <span class="fa fa-bars"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <div class="navbar-nav ms-auto py-0">
-                        <a href="index.php" class="nav-item nav-link">Home</a>
-                        <a href="about.php" class="nav-item nav-link">About</a>
-                        <a href="service.php" class="nav-item nav-link">Service</a>
-                        <a href="team.html" class="nav-item nav-link active">Our Team</a>
-                        <a href="contact.php" class="nav-item nav-link">Contact</a>
+                    <div  style="font-family: 'battambang', cursive;  font-weight: 300;" class="navbar-nav ms-auto py-0">
+                        <a href="index.php" class="nav-item nav-link">ទំព័រដើម</a>
+                        <a href="about.php" class="nav-item nav-link">អំពីយើងខ្ញុំ</a>
+                        <a href="team.php" class="nav-item nav-link  active">ក្រុមរបស់យើង</a>
+                        
                     </div>
-                    <a href="quote.php" class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5">Free Quote</a>
+                    <a style="font-family: 'battambang', cursive;  font-weight: 300;" href="contact.php" class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5">ទំនាកទំនង</a>
                 </div>
             </nav>
 
-            <div class="container-xxl bg-primary page-header">
+            <div class="container-xxl bg-secondary page-header">
                 <div class="container text-center">
-                    <h1 class="text-white animated zoomIn mb-3">Our Team</h1>
+                    <h1 style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white animated zoomIn mb-3">ក្រុមរបស់យើង</h1>
                     <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb justify-content-center">
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                            <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                            <li class="breadcrumb-item text-white active" aria-current="page">Our Team</li>
+                        <ol style="font-family: 'battambang', cursive;  font-weight: 300;" class="breadcrumb justify-content-center">
+                            <li class="breadcrumb-item"><a class="text-white" href="#">ទំព័រដើម</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="#">ទំព័រ</a></li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">ក្រុមរបស់យើង</li>
                         </ol>
                     </nav>
                 </div>
@@ -82,6 +81,7 @@
 
         <!-- Team Start -->
       <?php include "include/team.php" ?>
+      
         <!-- Team End -->
 
         <!-- Footer Start -->

@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="utf-8">
-    <title>CVDMRR</title>
+    <title>CVDMRRS</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta name="keywords" content="seo, cvdmrr,lorem ,diam ,ipsum ,stet dolor">
+    <meta name="description" content="ការស្វែងយល់អំពីការប្រើប្រាស់ search engine optimization">
+    <meta name="author" content="Hel samet">
 
     <!-- Favicon -->
-    <link href="img/icon.png" rel="icon">
-
+    <link href="img/icon.png" rel="icon" alt="CVDMRRS">
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -54,20 +54,6 @@
        <?php include "include/team.php" ?>
        <!-- footer -->
        <?php include "include/footer.php" ?>
-
-
-
-    
-
-
-
-   
-
-
-   
-        
-
-       
 
         <!-- Back to Top -->
         <a href="navbar" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>

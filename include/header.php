@@ -7,7 +7,7 @@
                             <a style="font-family: 'battambang', cursive;  font-weight: 300;" href="contact.php" target="_blank" class="btn btn-outline-light rounded-pill border-2 py-1 px-3 animated slideInRight">ទំនាកទំនង</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-start">
-                            <img class="img-fluid animated zoomIn" src="img/heross.png" alt="heros">
+                            <img class="img-fluid animated zoomIn" src="img/heross.png" alt="CVDMRRS">
                         </div>
                     </div>
                 </div>

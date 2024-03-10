@@ -7,12 +7,12 @@
   <!-- Section: Social media -->
   <section class="mb-4">
     <!-- Facebook -->
-    <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+    <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"
       ><i class="fab fa-facebook-f"></i
     ></a>
 
     <!-- Twitter -->
-    <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+    <a class="btn btn-outline-light btn-floating m-1" href="#" role="button"
       ><i class="fab fa-twitter"></i
     ></a>
 
@@ -42,7 +42,7 @@
 
 <!-- Copyright -->
 <div class="text-center p-3" style="background-color: #6c757d ;">
-  © 2020 Copyright:
+  © 2f020 Copyright:
   <a class="text-white" href="#">Our Teams6</a>
 </div>
 <!-- Copyright -->

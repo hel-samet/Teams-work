@@ -11,7 +11,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 text-center mb-n5 d-none d-md-block">
-                        <img class="img-fluid mt-5" style="max-height: 300px;" src="img/newsletters.png "alt="newseltter">
+                        <img class="img-fluid mt-5" style="max-height: 300px;" src="img/newsletters.png "alt="CVDMRRS">
                     </div>
                 </div>
             </div>

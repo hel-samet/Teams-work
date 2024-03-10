@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="utf-8">
-    <title>BizConsult - Consulting HTML Template</title>
+    <title>CVDMRRS</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta name="keywords" content="seo, cvdmrr,lorem ,diam ,ipsum ,stet dolor">
+    <meta name="description" content="ការស្វែងយល់អំពីការប្រើប្រាស់ search engine optimization">
+    <meta name="author" content="Hel samet">
 
     <!-- Favicon -->
-    <link href="img/icon.png" rel="icon">
+    <link href="img/icon.png" rel="icon" alt="CVDMRRS">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -46,7 +47,7 @@
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="index.php" class="navbar-brand p-0">
-                    <h1 class="m-0">CVDMRR</h1>
+                    <h2 class="m-0">CVDMRR</h2>
                     <!-- <img src="img/logo.png" alt="Logo"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -64,7 +65,7 @@
 
             <div class="container-xxl bg-secondary page-header">
                 <div class="container text-center">
-                    <h1 style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white animated zoomIn mb-3">ទំនាកទំនង</h1>
+                    <h2 style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white animated zoomIn mb-3">ទំនាកទំនង</h2>
                     <nav aria-label="breadcrumb">
                         <ol style="font-family: 'battambang', cursive;  font-weight: 300;" class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">ទំព័រដើម</a></li>

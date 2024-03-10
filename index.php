@@ -7,7 +7,7 @@
     <meta name="p:domain_verify" content="ddd0ecdce91348ee3558487fb284fa26" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="keywords" content="breaking news, entertainment, technology, life, sport, cambodia">
-    <meta name="description" content="Sabay News proudly is the most visited and popular Khmer website, with more than 20 million page views and almost 2 millions unique visitors per month!">
+    <meta name="description" content="SEO គឺជាដំណើរការនៃការបង្កើនភាពមើលឃើញឬងាយស្រួលក្នុងការស្វែងរកនិងការចាត់វិធានការដើម្បីជួយឱ្យគេហទំព័រឬផ្នែកមាតិកាមានចំណាត់ថ្នាក់ខ្ពស់នៅក្នុងលទ្ធផលស្វែងរករបស់ Google។ ">
     <meta name="author" content="Hel samet">
 
     <!-- Favicon -->

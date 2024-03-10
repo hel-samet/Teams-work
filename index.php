@@ -2,8 +2,9 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
     <title>CVDMRRS</title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+    <meta name="p:domain_verify" content="ddd0ecdce91348ee3558487fb284fa26" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="keywords" content="seo, cvdmrr,lorem ,diam ,ipsum ,stet dolor">
     <meta name="description" content="Sabay News proudly is the most visited and popular Khmer website, with more than 20 million page views and almost 2 millions unique visitors per month!">

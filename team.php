@@ -6,7 +6,7 @@
     <title>CVDMRRS</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="keywords" content="seo, cvdmrr,lorem ,diam ,ipsum ,stet dolor">
-    <meta name="description" content="ការស្វែងយល់អំពីការប្រើប្រាស់ search engine optimization">
+    <meta name="description" content="SEO គឺជាដំណើរការនៃការបង្កើនភាពមើលឃើញឬងាយស្រួលក្នុងការស្វែងរកនិងការចាត់វិធានការដើម្បីជួយឱ្យគេហទំព័រឬផ្នែកមាតិកាមានចំណាត់ថ្នាក់ខ្ពស់នៅក្នុងលទ្ធផលស្វែងរករបស់ Google។ ចំណាត់ថ្នាក់ខ្ពស់អាចបណ្តាលឱ្យមានចរាចរសកម្មភាពច្រើន បង្កើនការប្រែចិត្តជឿនិងROI ខ្ពស់។ ម្យ៉ាងវិញទៀត SEO សំដៅលើការអនុវត្តការធ្វើឱ្យ websiteឬ webpage ប្រសើរឡើងដើម្បីបង្កើនបរិមាណនិងគុណភាពចរាចររបស់ខ្លួនពីលទ្ធផល organic របស់ម៉ាស៊ីនស្វែងរក។ <br> ដែលពិតជាអ្វីដែល SEO គឺ - ការអនុវត្តនៃការបង្កើនប្រសិទ្ធភាពមាតិការបស់អ្នកឱ្យលេចឡើងខ្ពស់ជាងនៅក្នុងលទ្ធផលស្វែងរក។">
     <meta name="author" content="Hel samet">
 
     <!-- Favicon -->

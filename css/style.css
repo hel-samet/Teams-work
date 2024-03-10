@@ -6,10 +6,6 @@
     --light: hsl(204, 26%, 96%);
     --dark: #0E2E50;
 }
-
-.mb-4 h1{
-    font-size: 12px;
-}
 /*** Spinner ***/
 #spinner {
     opacity: 0;

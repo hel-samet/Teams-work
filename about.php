@@ -7,17 +7,17 @@
     <meta name="keywords" content="breaking news, entertainment, technology, life, sport, cambodia">
     <meta name="description" content="SEO គឺជាដំណើរការនៃការបង្កើនភាពមើលឃើញឬងាយស្រួលក្នុងការស្វែងរកនិងការចាត់វិធានការដើម្បីជួយឱ្យគេហទំព័រឬផ្នែកមាតិកាមានចំណាត់ថ្នាក់ខ្ពស់នៅក្នុងលទ្ធផលស្វែងរករបស់ Google។ ">
     <meta name="author" content="Hel samet">
-    
+
     <meta property="og:image" content="https://media.sabay.com/media/publications/logos/61d5046055fd2_1641350220.png" />
-    <meta property="og:url" content="https://news.sabay.com.kh" />
-    <meta property="og:title" content="Sabay News" />
-    <meta property="og:description" content="Sabay News proudly is the most visited and popular Khmer website, with more than 20 million page views and almost 2 millions unique visitors per month!" />
+    <meta property="og:url" content="https://cvdmrr.helsamet.com" />
+    <meta property="og:title" content="cvdmrr" />
+    <meta property="og:description" content="cvdmrr proudly is the most visited and popular Khmer website, with more than 20 million page views and almost 2 millions unique visitors per month!" />
     <meta property="og:type" content="website" />
     <meta property="fb:pages" content="1056231387765931"/><meta property="fb:app_id" content="745303362249043"/><meta property="fb:admins" content=""/>
-    <meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@sabayweb"><meta name="twitter:creator" content="@sabayweb">
-    <meta name="twitter:title" content="Sabay News">
-    <meta name="twitter:description" content="Sabay News proudly is the most visited and popular Khmer website, with more than 20 million page views and almost 2 millions unique visitors per month!">
-    <meta name="twitter:image" content="https://media.sabay.com/media/publications/logos/61d5046055fd2_1641350220.png">
+    <meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@cvdmrr"><meta name="twitter:creator" content="@cvdmrr">
+    <meta name="twitter:title" content="cvdmrr">
+    <meta name="twitter:description" content="cdmrr proudly is the most visited and popular Khmer website, with more than 20 million page views and almost 2 millions unique visitors per month!">
+    <meta name="twitter:image" content="https://media.cvdmrr.com/media/publications/logos/61d5046055fd2_1641350220.png">
 
     <!-- Favicon -->
     <link href="img/icon.png" rel="icon" alt="CVDMRRS">

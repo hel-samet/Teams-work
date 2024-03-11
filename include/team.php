@@ -10,7 +10,7 @@
                     <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item">
                             <h5>Hel Samet</h5>
-                            <p class="mb-4">designation</p>
+                            <h2 class="mb-4">designation</h2>
                             <img class="img-fluid rounded-circle w-100 mb-4" src="img/team8.png" alt="CVDMRRS">
                             <div class="d-flex justify-content-center">
                                 <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -22,7 +22,7 @@
                     <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item">
                             <h5>Sok Sovannarith</h5>
-                            <p class="mb-4">designation</p>
+                            <h2 class="mb-4">designation</h2>
                             <img class="img-fluid rounded-circle w-100 mb-4" src="img/team2.png" alt="CVDMRRS">
                             <div class="d-flex justify-content-center">
                                 <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -34,7 +34,7 @@
                     <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item">
                             <h5>Sok Thida</h5>
-                            <p class="mb-4">designation</p>
+                            <h2 class="mb-4">designation</h2>
                             <img class="img-fluid rounded-circle w-100 mb-4" src="img/team3.png" alt="CVDMRRS">
                             <div class="d-flex justify-content-center">
                                 <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -47,7 +47,7 @@
                     <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item">
                             <h5>Nary Pichsovann</h5>
-                            <p class="mb-4">designation</p>
+                            <h2 class="mb-4">designation</>
                             <img class="img-fluid rounded-circle w-100 mb-4" src="img/team4.png" alt="CVDMRRS">
                             <div class="d-flex justify-content-center">
                                 <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -60,7 +60,7 @@
                     <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item">
                             <h5>Chhoeun Namchheav</h5>
-                            <p class="mb-4">designation</p>
+                            <h2 class="mb-4">designation</>
                             <img class="img-fluid rounded-circle w-100 mb-4" src="img/team7.png" alt="CVDMRRS">
                             <div class="d-flex justify-content-center">
                                 <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-facebook-f"></i></a>

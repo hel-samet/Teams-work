@@ -13,7 +13,7 @@
                             <p class="mb-4">designation</p>
                             <img class="img-fluid rounded-circle w-100 mb-4" src="img/team8.png" alt="CVDMRRS">
                             <div class="d-flex justify-content-center">
-                                <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square text-primary bg-white m-1" href="https://www.facebook.com/helsamet.official"target="_blank" ><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-linkedin-in"></i></a>
                             </div>

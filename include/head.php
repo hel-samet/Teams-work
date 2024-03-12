@@ -1,7 +1,7 @@
 <head>
     <title>CVDMRR_TEAM2_PROJECT</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="keywords" content="breaking news, entertainment, technology, life, sport, cambodia">
+    <meta name="keywords" content="Team project, technology, business life, sport, cambodia">
     <meta name="description" content="SEO Plans to build strong or limited website or content restrictions in search results Google។ ">
     <meta property="og:image" content="https://media.cvdmrr.com/media/publications/logos/61d5046055fd2_1641350220.png" />
     <meta property="og:url" content="https://cvdmrr.helsamet.com" />

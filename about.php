@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>CVDMRRS</title>
+    <title>CVDMRR</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="keywords" content="breaking news, entertainment, technology, life, sport, cambodia">
     <meta name="description" content="SEO គឺជាដំណើរការនៃការបង្កើនភាពមើលឃើញឬងាយស្រួលក្នុងការស្វែងរកនិងការចាត់វិធានការដើម្បីជួយឱ្យគេហទំព័រឬផ្នែកមាតិកាមានចំណាត់ថ្នាក់ខ្ពស់នៅក្នុងលទ្ធផលស្វែងរករបស់ Google។ ">
@@ -56,7 +56,7 @@
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="index.php" class="navbar-brand p-0">
-                    <h2 class="m-0">CVDMRR</h2>
+                    <h1 class="m-0">CVDMRR</h1>
                     <!-- <img src="img/logo.png" alt="Logo"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">

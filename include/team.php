@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="mx-auto text-center wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                     <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">ក្រុមរបស់យើង</div>
-                    <h5 style="font-family: 'battambang', cursive;  font-weight: 300;" class="mb-5">ជួបជាមួយសមាជិកក្រុមរបស់យើង</h5>
+                    <h2 style="font-family: 'battambang', cursive;  font-weight: 300;" class="mb-5">ជួបជាមួយសមាជិកក្រុមរបស់យើង</h2>
                 </div>
                 <div class="row g-4 ">
                     <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.1s">

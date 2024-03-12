@@ -28,7 +28,7 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div  style="font-family: 'battambang', cursive;  font-weight: 300;" class="navbar-nav ms-auto py-0">
                         <a href="index.php" class="nav-item nav-link">ទំព័រដើម</a>
-                        \<a href="about.php" class="nav-item nav-link">អំពីយើងខ្ញុំ</a>
+                        <a href="about.php" class="nav-item nav-link">អំពីយើងខ្ញុំ</a>
                         <a href="team.php" class="nav-item nav-link  active">ក្រុមរបស់យើង</a>
                         
                     </div>

@@ -75,7 +75,7 @@
 
             <div class="container-xxl bg-secondary page-header">
                 <div class="container text-center">
-                    <h2 style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white animated zoomIn mb-3">ក្រុមរបស់យើង</h2>
+                    <h5 style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white animated zoomIn mb-3">ក្រុមរបស់យើង</h5>
                     <nav aria-label="breadcrumb">
                         <ol style="font-family: 'battambang', cursive;  font-weight: 300;" class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">ទំព័រដើម</a></li>

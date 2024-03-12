@@ -3,7 +3,7 @@
             <div class="container px-lg-5">
                 <div class="row align-items-center" style="height: 250px;">
                     <div class="col-12 col-md-6">
-                        <h3 style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white">រួចរាល់ដើម្បីចាប់ផ្តើម</h3>
+                        <h5 style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white">រួចរាល់ដើម្បីចាប់ផ្តើម</h5>
                         <small  style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white">សូមធ្វើការទាក់ទងមកខ្ញុំតាមរយះ</small>
                         <div class="position-relative w-100 mt-3">
                             <input class="form-control border-0 rounded-pill w-100 ps-4 pe-5" type="text" placeholder="Enter Your Email" style="height: 48px;">

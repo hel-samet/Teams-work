@@ -74,7 +74,7 @@
 
             <div class="container-xxl bg-secondary page-header">
                 <div class="container text-center">
-                    <h2 style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white animated zoomIn mb-3">ទំនាកទំនង</h2>
+                    <h5 style="font-family: 'battambang', cursive;  font-weight: 300;" class="text-white animated zoomIn mb-3">ទំនាកទំនង</h5>
                     <nav aria-label="breadcrumb">
                         <ol style="font-family: 'battambang', cursive;  font-weight: 300;" class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">ទំព័រដើម</a></li>
@@ -94,7 +94,7 @@
             <div class="container">
                 <div class="mx-auto text-center wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                     <div style="font-family: 'battambang', cursive;  font-weight: 300;" class="d-inline-block border rounded-pill text-primary px-4 mb-3">ទំនាកទំនង</div>
-                    <h2 style="font-family: 'battambang', cursive;  font-weight: 300;  line-height: 45px;" class="mb-5">ប្រសិនបើអ្នកមានសំណួរណាមួយ សូមទាក់ទងមកយើងខ្ញុំដោយសេរី</h2>
+                    <h5 style="font-family: 'battambang', cursive;  font-weight: 300;  line-height: 45px;" class="mb-5">ប្រសិនបើអ្នកមានសំណួរណាមួយ សូមទាក់ទងមកយើងខ្ញុំដោយសេរី</h5>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.3s">
